@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'GTWalsheimProUltraLight';
+    src: url('fonts/GTWalsheimProUltraLight.eot');
+    src: url('fonts/GTWalsheimProUltraLight.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GTWalsheimProUltraLight.woff2') format('woff2'),
+        url('fonts/GTWalsheimProUltraLight.woff') format('woff'),
+        url('fonts/GTWalsheimProUltraLight.ttf') format('truetype'),
+        url('fonts/GTWalsheimProUltraLight.svg#GTWalsheimProUltraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTWalsheimProBlack';
+    src: url('fonts/GTWalsheimProBlack.eot');
+    src: url('fonts/GTWalsheimProBlack.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GTWalsheimProBlack.woff2') format('woff2'),
+        url('fonts/GTWalsheimProBlack.woff') format('woff'),
+        url('fonts/GTWalsheimProBlack.ttf') format('truetype'),
+        url('fonts/GTWalsheimProBlack.svg#GTWalsheimProBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTWalsheimProMedium';
+    src: url('fonts/GTWalsheimProMedium.eot');
+    src: url('fonts/GTWalsheimProMedium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GTWalsheimProMedium.woff2') format('woff2'),
+        url('fonts/GTWalsheimProMedium.woff') format('woff'),
+        url('fonts/GTWalsheimProMedium.ttf') format('truetype'),
+        url('fonts/GTWalsheimProMedium.svg#GTWalsheimProMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTWalsheimProBold';
+    src: url('fonts/GTWalsheimProBold.eot');
+    src: url('fonts/GTWalsheimProBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GTWalsheimProBold.woff2') format('woff2'),
+        url('fonts/GTWalsheimProBold.woff') format('woff'),
+        url('fonts/GTWalsheimProBold.ttf') format('truetype'),
+        url('fonts/GTWalsheimProBold.svg#GTWalsheimProBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
