@@ -45,3 +45,42 @@
     font-weight: bold;
     font-style: normal;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bgHeader{
+    background-image: url(../images/bgFull.jpg);
+    background-position: center top;
+    background-size: cover;
+}
+
+.logoOne{
+    padding: 2%;s
+}
+
+.nav > li > a {
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.nav > li > a:hover{
+    background-color: transparent;   
+}
+
+.nav > li > a:focus{
+    font-weight: 700;
+    background-color: transparent;
+}
+
+.topBar {
+    background-color: #8888 !important;
+}
+
+.navbar-brand{
+    padding: 10px 15px;
+}
