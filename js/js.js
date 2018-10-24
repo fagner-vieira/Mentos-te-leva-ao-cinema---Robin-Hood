@@ -2,8 +2,10 @@ $(function() {
     $(window).on("scroll", function() {
         if($(window).scrollTop() > 100) {
             $(".navbar").addClass("topBar");
+            $(".nav").addClass("navOne > li > a");
         } else {
             $(".navbar").removeClass("topBar");
+            $(".nav").removeClass("navOne > li > a");
         }
     });
 });
