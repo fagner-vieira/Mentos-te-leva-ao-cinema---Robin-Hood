@@ -243,3 +243,38 @@ body{
     margin-top: 15%;
     margin-bottom: 15%;
 }
+
+.participar{
+    background:-webkit-gradient(linear, 65% 50%, 65% 0%, from(#0699df), to(#059adf))
+}
+
+.txtPartOne{
+    font-family: 'GTWalsheimProBlack';
+    text-align: center;
+    color: #fff;
+    font-size: 2em; 
+    margin-top: -35px;
+}
+
+.txtPartTwo{
+    font-family: 'PT Serif', serif;
+    color: #fff;
+    text-align: center;
+    font-size: 1em;
+}
+
+.txtPartThree{
+    font-family: 'PT Serif', serif;
+    color: #a5d1ef;
+    text-align: center;
+    font-size: 0.7em;
+}
+
+.marginParticipar{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.marginha{
+    margin-bottom: 10%;
+}
