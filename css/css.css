@@ -231,3 +231,15 @@ body{
         bottom: -30px;
     }
 }
+
+.kv{
+    background-image: url(../images/bgKv.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.marginKv{
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
