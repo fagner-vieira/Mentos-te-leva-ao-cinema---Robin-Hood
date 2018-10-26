@@ -314,7 +314,7 @@ if (typeof jQuery === 'undefined') {
 
   var Carousel = function (element, options) {
     this.$element    = $(element)
-    this.$indicators = this.$element.find('.carousel-indicators')
+    this.$indicators = this.$element.find('.carousel-indicators, .carousel-indicatorsTwo')
     this.options     = options
     this.paused      = null
     this.sliding     = null

@@ -232,6 +232,8 @@ body{
     }
 }
 
+/*  KV  */
+
 .kv{
     background-image: url(../images/bgKv.jpg);
     background-position: center;
@@ -243,6 +245,8 @@ body{
     margin-top: 15%;
     margin-bottom: 15%;
 }
+
+/*  How to participate  */
 
 .participar{
     background:-webkit-gradient(linear, 65% 50%, 65% 0%, from(#0699df), to(#059adf))
@@ -277,4 +281,66 @@ body{
 
 .marginha{
     margin-bottom: 10%;
+}
+
+/*  Products  */
+
+.txtProductOne{
+    font-family: 'GTWalsheimProBlack';
+    font-size: 1.2em;
+    color: #222328;
+    text-align: center;
+}
+
+.txtProductTwo{
+    color: #4f536280;
+    text-align: center;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    margin-top: -10px;
+}
+
+.txtproductsThree{
+    font-family: 'GTWalsheimProBlack';
+    font-size: 4.5em;
+    color: #2c2d87;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: -12px;   
+}
+
+.carousel-indicatorsTwo {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    z-index: 15;
+    width: 60%;
+    padding-left: 0;
+    margin-left: -30%;
+    text-align: center;
+    list-style: none;
+  }
+  .carousel-indicatorsTwo li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000 \9;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #3f4255;
+    border-radius: 10px;
+  }
+  .carousel-indicatorsTwo .active {
+    width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color: #3f4255;
+  }
+
+  @media screen and (min-width: 768px){
+    .carousel-indicatorsTwo {
+        bottom: -70px;
+    }
 }
