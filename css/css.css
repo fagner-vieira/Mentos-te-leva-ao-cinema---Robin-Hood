@@ -344,3 +344,57 @@ body{
         bottom: -70px;
     }
 }
+
+.txtLojasOne{
+    font-family: 'GTWalsheimProBlack';
+    font-size: 2.5em;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.txtLojastwo{
+    font-family: 'PT Serif', serif;
+    color: #fff;
+    font-size: 0.9em;
+}
+
+.marginhaOne{
+    margin-top: 10%;
+}
+
+.btnLista{
+    color: #fff;
+    background-color: #2c2d87;
+    border: 1px solid #2c2d87;
+}
+
+.btnLista:hover{
+    color: #fff;
+    background-color: #4344a2;
+    border: 1px solid #4344a2;
+}
+
+.btnReg{
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+
+.btnReg:hover{
+    color: #ccc;
+    border: 1px solid #ccc;
+}
+
+.marginLojas{
+    margin-top: 18%;
+    margin-bottom: 18%;
+}
+
+.bgRodape{
+    background-color: #f1f1f1;
+}
+
+.txtRodape{
+    color: #4f536278;
+    padding: 12% 10% 8% 10%;
+}
