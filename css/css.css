@@ -226,6 +226,8 @@ body{
     margin-bottom: 15%;
 }
 
+/*  Mobile Carousel  */
+
 @media screen and (min-width: 768px){
     .carousel-indicators {
         bottom: -30px;
@@ -339,11 +341,15 @@ body{
     background-color: #3f4255;
   }
 
+  /*  Mobile Carousel  */
+
   @media screen and (min-width: 768px){
     .carousel-indicatorsTwo {
         bottom: -70px;
     }
 }
+
+/*  Stores  */
 
 .txtLojasOne{
     font-family: 'GTWalsheimProBlack';
@@ -390,6 +396,8 @@ body{
     margin-bottom: 18%;
 }
 
+/*  Footer  */
+
 .bgRodape{
     background-color: #f1f1f1;
 }
@@ -432,4 +440,61 @@ footer a {
 
 .btnOne{
     cursor: pointer;
+}
+
+/*  Mobile  */
+
+@media (max-width: 767px){
+    .bgHeader{
+        background-position: -574px;
+    }
+    .headerMargin {
+        margin-top: 30%;
+    }
+    .txtHeaderOne{
+        font-size: 2em;
+    }
+    .LogoMobileOne{
+        width: 200px;
+    }
+    .txtHeaderTwo{
+        font-size: 2.3em;
+    }
+    .txtHeaderThree{
+        font-size: 1.8em;
+    }
+    .btn{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .txtFilmeOne{
+        font-size: 2.2em;
+    }
+    .txtFilmeTwo{
+        font-size: 1.2em;
+    }
+    .imgDataMobile{
+        width: 100%;
+    }
+    .txtproductsThree{
+        font-size: 2.5em;
+    }
+    .logoMobile{
+        width: 170px;
+    }
+    .navbar{
+        background-color: #fff;
+    }
+    .nav > li > a{
+        color: #2c2d87;
+    }
+}
+
+.navbar-toggle{
+    background-color: #009fe3;
+    border: 1px solid #009fe3;
+}
+
+.icon-bar{
+    background: #fff;
 }
