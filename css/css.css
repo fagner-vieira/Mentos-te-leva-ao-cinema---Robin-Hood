@@ -488,6 +488,13 @@ footer a {
     .nav > li > a{
         color: #2c2d87;
     }
+    .slick-next{
+        right: 10px;
+    }
+    .slick-prev{
+        left: 10px;
+        z-index: 999;
+    }
 }
 
 .navbar-toggle{
