@@ -341,7 +341,7 @@
             <li><a href="https://www.facebook.com/mentosbr" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
             <li><a href="https://twitter.com/mentos" target="_blank"><i class="fab fa-twitter-square"></i></i></a></li>
             <li><a href="https://www.instagram.com/mentosbrasil/" target="_blank"><i class="fab fa-instagram"></i></i></a></li>
-            <!--<li><a href="#"><i class="fab fa-linkedin"></i></i></a></li>-->
+            <li><a href="#"><i class="fab fa-linkedin"></i></i></a></li>
             <li><a href="https://www.youtube.com/user/mentosbrasil" target="_blank"><i class="fab fa-youtube"></i></i></a></li>
           </ul>
         </div>
